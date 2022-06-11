@@ -1,28 +1,45 @@
 {
-    "entries": [
-        {
-          "id": "1",
-          "description": "Work income redux",
-          "value": 2000.0,
-          "isExpense": false
-        },
-        {
-          "id": "2",
-          "description": "Water Bill redux",
-          "value": 20.0,
-          "isExpense": true
-        },
-        {
-          "id": "3",
-          "description": "Rent",
-          "value": 200.0,
-          "isExpense": true
-        },
-        {
-          "id": "4",
-          "description": "Power Bill",
-          "value": 200.0,
-          "isExpense": true
-        }
-      ]
+  "entries": [
+    {
+      "id": "1",
+      "description": "Work income redux"
+    },
+    {
+      "id": "2",
+      "description": "Water Bill redux"
+      
+    },
+    {
+      "id": "3",
+      "description": "Rent"
+    
+    },
+    {
+      "id": "4",
+      "description": "Power Bill"
+     
+    }
+  ],
+  "values": [
+    {
+      "id": "1",
+      "value": 2000,
+      "isExpense": false
+    },
+    {
+      "id": "2",
+      "value": 20,
+      "isExpense": true
+    },
+    {
+      "id": "3",
+      "value": 200,
+      "isExpense": true
+    },
+    {
+      "id": "4",
+      "value": 200,
+      "isExpense": true
+    }
+  ]
 }
