@@ -2,22 +2,23 @@
   "entries": [
     {
       "id": "1",
-      "description": "Work income redux"
+      "description": "Salary"
     },
     {
       "id": "2",
       "description": "Water Bill redux"
-      
     },
     {
       "id": "3",
       "description": "Rent"
-    
     },
     {
       "id": "4",
-      "description": "Power Bill"
-     
+      "description": "Food"
+    },
+    {
+      "id": "31c625a6-01af-487d-9c46-9c3f9786870f",
+      "description": "Electricity"
     }
   ],
   "values": [
@@ -38,8 +39,13 @@
     },
     {
       "id": "4",
-      "value": 200,
+      "value": 30,
       "isExpense": true
+    },
+    {
+      "id": "31c625a6-01af-487d-9c46-9c3f9786870f",
+      "isExpense": true,
+      "value": "20"
     }
   ]
 }
